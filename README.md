@@ -72,6 +72,7 @@ Run the project:
 npm run dev
 
 🧠 Approach
+
 Used React state to manage transactions and UI
 Implemented filtering and search using array methods
 Used conditional rendering for role-based UI
@@ -79,6 +80,7 @@ Designed reusable components for better structure
 Ensured responsive layout using Tailwind CSS
 
 🎯 Key Highlights
+
 Clean and modern UI
 
 Fully responsive design
@@ -90,6 +92,7 @@ Simple and scalable structure
 Good user experience
 
 📌 Notes
+
 This project uses mock data (no backend)
 
 Focus is on frontend logic and UI
