@@ -3,11 +3,11 @@ A responsive finance dashboard for tracking income, expenses, and spending insig
 
 🚀 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://finance-dashboard-eight-olive.vercel.app
 
 📂 GitHub Repository
 
-👉 (https://github.com/Gopipalleboina/finance-dashboard)
+👉 https://github.com/Gopipalleboina/finance-dashboard
 
 📌 Overview
 
