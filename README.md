@@ -8,6 +8,7 @@ A responsive finance dashboard for tracking income, expenses, and spending insig
 👉 (https://github.com/Gopipalleboina/finance-dashboard)
 
 📌 Overview
+
 This project is a simple and interactive finance dashboard built as part of a Frontend Developer Intern assignment.
 
 It allows users to:
@@ -19,35 +20,43 @@ Add new transactions (Admin only)
 The focus of this project is on UI design, component structure, and frontend state management.
 
 ✨ Features
+
 📊 Dashboard Overview
 Total Balance, Income, and Expenses cards
 Dynamic calculations based on transaction data
 
 📈 Charts
+
 Line chart for balance trend
 Pie chart for spending breakdown
 
 📋 Transactions Table
+
 Displays all transactions
 Search by category
 Filter by type (Income / Expense)
 
 🔐 Role-Based UI
+
 Viewer → can only view data
 Admin → can add transactions
 
 ➕ Add Transaction
+
 Add new expense dynamically
 Updates UI instantly
 
 💡 Insights Section
+
 Shows highest spending category
 Displays total spending
 
 🌙 Dark Mode
+
 Toggle between light and dark theme
 
 💾 Data Persistence
+
 Uses localStorage to save transactions
 🛠️ Tech Stack
 React.js
