@@ -2,9 +2,11 @@
 A responsive finance dashboard for tracking income, expenses, and spending insights with interactive charts and role-based access.
 
 🚀 Live Demo
+
 👉 https://your-vercel-link.vercel.app
 
 📂 GitHub Repository
+
 👉 (https://github.com/Gopipalleboina/finance-dashboard)
 
 📌 Overview
@@ -22,6 +24,7 @@ The focus of this project is on UI design, component structure, and frontend sta
 ✨ Features
 
 📊 Dashboard Overview
+
 Total Balance, Income, and Expenses cards
 Dynamic calculations based on transaction data
 
@@ -65,10 +68,13 @@ Recharts (for charts)
 JavaScript (ES6)
 
 📁 Project Structure
+
 src/ ├── components/ │ ├── Charts.jsx │ ├── SummaryCard.jsx │ ├── TransactionTable.jsx │ ├── RoleSwitcher.jsx │ └── Insights.jsx │ ├── pages/ │ └── Dashboard.jsx │ ├── data/ │ └── mockData.js │ ├── App.jsx └── main.jsx
 
 ⚙️ Installation & Setup
+
 Clone the repository:
+
 git clone https://github.com/Gopipalleboina/finance-dashboard.git
 
 Navigate to project folder:
@@ -109,4 +115,5 @@ Focus is on frontend logic and UI
 Designed for demonstration and evaluation purposes
 
 🙌 Acknowledgement
+
 This project was built as part of a frontend assignment to demonstrate practical development skills.
